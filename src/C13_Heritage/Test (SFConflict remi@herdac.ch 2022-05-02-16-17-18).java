@@ -14,5 +14,5 @@ public class Test {
         suzuki.accelerate();
         tracteur.start();
         tracteur.accelerate();
-}
+    }
 }
